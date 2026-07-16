@@ -164,7 +164,7 @@ function getData(index) {
         return;
     }
 
-    clearInterval(id);
+    clearInterval(id);  
 
     let timeLeft = 60;
     document.querySelectorAll('.timer span')[0].innerText = "01";

@@ -134,3 +134,24 @@ button {
 .submit:hover {
     background: #27AE60;
 }
+
+.result {
+    background: white;
+    border-radius: 12px;
+    padding: 40px;
+    text-align: center;
+    color: #2D2B55;
+}
+
+.result h1 {
+    margin-bottom: 15px;
+}
+
+.result h2 {
+    margin-bottom: 10px;
+}
+
+.result p {
+    margin-top: 8px;
+    color: #555;
+}
