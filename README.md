@@ -618,7 +618,6 @@ After completing this project, you will understand:
 
 - HTML5
 - CSS3
-- Bootstrap
 - JavaScript
 - Git & GitHub
 
@@ -629,28 +628,6 @@ After completing this project, you will understand:
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 Your support motivates me to build more amazing frontend projects and share them with the developer community.
-
----
-
-# 🤝 Contributions
-
-Contributions, suggestions, and improvements are always welcome.
-
-If you'd like to improve this project:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit your changes
-5. Open a Pull Request
-
----
-
-# 📄 License
-
-This project is created for learning and educational purposes.
-
-Feel free to use, modify, and improve it for your own practice.
 
 ---
 
