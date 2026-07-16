@@ -635,7 +635,7 @@ Your support motivates me to build more amazing frontend projects and share them
 
 # ⭐ Thank You for Visiting My Project ⭐
 
-### Made with ❤️ using HTML, CSS & Vanilla JavaScript
+### Made with ❤️ using HTML, CSS & JavaScript
 
 🚀 Happy Coding!
 
