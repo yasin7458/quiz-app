@@ -296,7 +296,7 @@ A user scoring **40% or above** is marked as **PASS**, otherwise **FAIL**.
 
 > Replace the link below with your own demo video.
 
-<a href="YOUR_VIDEO_LINK_HERE">
+<a href="https://drive.google.com/file/d/1HBNav07NxCQ-lsKrkznNTmg7S8mvd7O1/view?usp=sharing">
 
 <img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
 
